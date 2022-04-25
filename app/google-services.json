@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834775000112",
+    "project_id": "fir-login-e426e",
+    "storage_bucket": "fir-login-e426e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834775000112:android:df74528e7a1159089cf9f5",
+        "android_client_info": {
+          "package_name": "utiak.covarrubias.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834775000112-8ij497h1he2lqo98pgq8ng463d5tikdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQ4uFhJWuFM_vShNJSRatR3f8djgUOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834775000112-8ij497h1he2lqo98pgq8ng463d5tikdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
